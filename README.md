@@ -3,10 +3,12 @@
 ![Static Badge](https://img.shields.io/badge/AtomicAlgo-github?logo=github&label=Steam&color=%233333CC&link=https%3A%2F%2Fgithub.com%2FAtomicAlgo)
 ![Static Badge](https://img.shields.io/badge/Leviathan-Steam?logo=steam&label=Steam&color=%233366CC&link=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561199203074292%2F)
 
+
+
+
+
 - 🍻 Postgraduates at 🇨🇳 [XDU](https://www.xidian.edu.cn/), Engaged in the Electronic Engineering
 - ⚡ C++ / Python / Matlab / Java.
-[//]: # (- 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts))
-- ✍️ [Blogger](https://haysc.tech)
 - 🏃 Fitness / Badminton / Cycling / Scuba Diving
  
 
